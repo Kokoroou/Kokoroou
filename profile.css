@@ -1,0 +1,136 @@
+:root {
+  
+}
+
+body {
+  background-color: #ffffff
+}
+
+.intro {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 300px;
+}
+
+.intro1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.intro1__bg {
+    position: absolute;
+    top: -25%;
+    left: 50%;
+    width: 200%;
+    height: 200%;
+    transform: rotate(0);
+    opacity: 0;
+}
+
+.intro1__bg::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #43445b;
+    opacity: .4
+}
+
+.intro1__bg-effects {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
+
+.intro1__bg-effects div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    transform: scale(0)
+}
+
+.intro1__bg-effects div:nth-child(1) {
+    background-color: #ebcb8b
+}
+
+.intro1__bg-effects div:nth-child(2) {
+    background-color: #c56370
+}
+
+.intro1__bg-effects div:nth-child(3) {
+    background-color: #43445b
+}
+
+.intro1 .intro1__bg {
+    animation: intro1__bg .8s ease 2.9s forwards
+}
+
+.intro1 .intro1__bg-effects div:nth-child(1) {
+    animation: scale0-1 .5s ease 6.8s forwards
+}
+
+.intro1 .intro1__bg-effects div:nth-child(2) {
+    animation: scale0-1 .5s ease 7.0s forwards
+}
+
+.intro1 .intro1__bg-effects div:nth-child(3) {
+    animation: scale0-1 .5s ease 7.2s forwards
+}
+
+@keyframes intro1__bg {
+    from {
+        transform: translateX(100px) rotate(20deg);
+        opacity: 0
+    }
+
+    to {
+        transform: translateX(0) rotate(20deg);
+        opacity: 1
+    }
+}
+
+.rectangle {
+  margin: auto;
+  height: 400px;
+  width: 100%;
+  background-color: #DAE3F3;
+  overflow: hidden;
+  position: relative;
+}
+
+.circle {
+  --size: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: calc(var(--size)/(-2)) 0 0 calc(var(--size)/(-2));
+  height: var(--size);
+  width: var(--size);
+  background-color: #B4C7E7;
+  border-radius: 50%;
+}
+
+.namebar {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -175px;
+  height: 50px;
+  width: 350px;
+  background-color: #2F5597;
+  border-radius: 10px;
+}
+
+
+
