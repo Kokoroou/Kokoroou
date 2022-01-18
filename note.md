@@ -25,4 +25,6 @@ https://www.youtube.com/watch?v=PvnKU3DSyQE
 https://pufler.dev/git-badges
 - Library to for CSS animation: \
 https://animate.style/
+- Make snake-eating contribution graph: \
+https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
 
