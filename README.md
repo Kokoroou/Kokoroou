@@ -25,8 +25,8 @@ I'm occasionally driven to considering the deeper significance of such types of 
 ![Tuấn Anh's github stats](https://github-readme-stats.vercel.app/api?username=kokoroou&show_icons=true&theme=great-gatsby)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoroou&theme=great-gatsby&layout=compact)
 	
-<a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/kokoroou/kokoroou?color=green" alt="Visitors badge" />
+<a href="#">
+    <img align="right" src="https://count.getloli.com/get/@kokoroou?theme=rule34" alt="Visits count" />
  </a>
 
 
