@@ -9,16 +9,17 @@
 Hello, my name is Tuấn Anh and I'm from Vietnam. I'm a university student right now.
 
 
-:book: Computer Science is my major. I am interested in technology and would like to create an awesome application, thus I believe this major is a good fit for me.
+:book: As a technology enthusiast with a keen interest in developing innovative applications, pursuing a major in Computer Science is an ideal choice for me.
 
+:technologist: Currently working as an AI engineer. I have experience in both Natural Language Processing (NLP) and Computer Vision (CV).
 
 :video_game: My interests include watching movies, reading manga, and playing video games. 
-I'm occasionally driven to considering the deeper significance of such types of entertainment.
 
 ### Contact
 
 [<img alt="kokoroou | Gmail"  src="https://img.shields.io/badge/-Gmail-b23121?logo=gmail&logoColor=white" />][gmail]
 [<img alt="kokoroou | Facebook"  src="https://img.shields.io/badge/-Facebook-3b5998?logo=facebook&logoColor=white" />][facebook]
+[<img alt="kokoroou | LinkedIn"  src="https://img.shields.io/badge/-LinkedIn-0272b1?logo=linkedin&logoColor=white" />][linkedin]
 
 ### GitHub Stats
 
@@ -32,3 +33,4 @@ I'm occasionally driven to considering the deeper significance of such types of 
 
 [gmail]: mailto:truongtuananhsamson@gmail.com
 [facebook]: https://www.facebook.com/takf1619
+[linkedin]: https://www.linkedin.com/in/truongtuananh-123/
