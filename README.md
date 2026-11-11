@@ -1,36 +1,39 @@
 <div>
-  <img src="profile.svg" width="100%" height="150px">
+  <img src="profile.svg" width="100%" height="150px" alt="Kokoroou">
 </div>
 
-# Hi there 👋
+# Hi, I'm Tuấn Anh 👋
 
 ![](https://www.codewars.com/users/Kokoroou/badges/micro)
 
-Hello, my name is Tuấn Anh and I'm from Vietnam. I'm a university student right now.
+**DevOps engineer focused on AI infrastructure.** I build and run the systems AI workloads live on: Kubernetes services, GPU platforms and LLM serving. Before that I spent three years as an AI engineer working on computer vision and NLP, so I know what these workloads need from the platform underneath.
 
+Based in Vietnam. Currently at MISA JSC.
 
-:book: As a technology enthusiast with a keen interest in developing innovative applications, pursuing a major in Computer Science is an ideal choice for me.
+### What I work with
 
-:technologist: Currently working as an AI engineer. I have experience in both Natural Language Processing (NLP) and Computer Vision (CV).
+- **Platform:** Kubernetes, ArgoCD, OpenStack, Terraform, Ansible, GitLab
+- **GPU and LLM serving:** Run:ai, vLLM, SGLang
+- **Observability:** Logstash, Kibana, Elastic APM
+- **Code:** Python, mostly backend
 
-:video_game: My interests include watching movies, reading manga, and playing video games. 
+### Selected work
 
-### Contact
+- **[MakerLens](https://kokoroou.github.io/rpgmaker-assets-viewer/)**: a free viewer and extractor for RPG Maker assets that runs entirely in the browser.
+- Work projects (eKYC verification service, GPU platform) are covered on my CV site. Details are limited by my employer's NDA.
 
-[<img alt="kokoroou | Gmail"  src="https://img.shields.io/badge/-Gmail-b23121?logo=gmail&logoColor=white" />][gmail]
-[<img alt="kokoroou | Facebook"  src="https://img.shields.io/badge/-Facebook-3b5998?logo=facebook&logoColor=white" />][facebook]
-[<img alt="kokoroou | LinkedIn"  src="https://img.shields.io/badge/-LinkedIn-0272b1?logo=linkedin&logoColor=white" />][linkedin]
+### Find me
 
-### GitHub Stats
+[<img alt="Website" src="https://img.shields.io/badge/-CV%20site-287D69?logo=githubpages&logoColor=white" />][site]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0272b1?logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Email" src="https://img.shields.io/badge/-Email-b23121?logo=gmail&logoColor=white" />][email]
 
-![Tuấn Anh's github stats](https://github-readme-stats.vercel.app/api?username=kokoroou&show_icons=true&theme=great-gatsby)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoroou&theme=great-gatsby&layout=compact)
-	
+Off the clock: games, manga and movies.
+
 <a href="#">
     <img align="right" src="https://count.getloli.com/get/@kokoroou?theme=rule34" alt="Visits count" />
- </a>
+</a>
 
-
-[gmail]: mailto:truongtuananhsamson@gmail.com
-[facebook]: https://www.facebook.com/takf1619
+[site]: https://kokoroou.github.io/
 [linkedin]: https://www.linkedin.com/in/truongtuananh-123/
+[email]: mailto:truongtuananh.projects@gmail.com
