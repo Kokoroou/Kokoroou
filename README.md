@@ -4,6 +4,8 @@
 
 # Hi, I'm Tuấn Anh 👋
 
+![](https://www.codewars.com/users/Kokoroou/badges/micro)
+
 **DevOps engineer focused on AI infrastructure.** I build and run the systems AI workloads live on: Kubernetes services, GPU platforms and LLM serving. Before that I spent three years as an AI engineer working on computer vision and NLP, so I know what these workloads need from the platform underneath.
 
 Based in Vietnam. Currently at MISA JSC.
@@ -27,6 +29,10 @@ Based in Vietnam. Currently at MISA JSC.
 [<img alt="Email" src="https://img.shields.io/badge/-Email-b23121?logo=gmail&logoColor=white" />][email]
 
 Off the clock: games, manga and movies.
+
+<a href="#">
+    <img align="right" src="https://count.getloli.com/get/@kokoroou?theme=rule34" alt="Visits count" />
+</a>
 
 [site]: https://kokoroou.github.io/
 [linkedin]: https://www.linkedin.com/in/truongtuananh-123/
